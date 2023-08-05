@@ -1,0 +1,82 @@
+<mxfile host="Electron" modified="2023-07-15T15:32:00.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="k48Ze0AhbE94zq_0o-R7" version="21.6.1" type="device">
+  <diagram name="Page-1" id="vkQgE0KfK9N9HNI9LAvo">
+    <mxGraphModel dx="1825" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-1" target="_iDx4P4Rur1Mqj5kfoU6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-2" target="_iDx4P4Rur1Mqj5kfoU6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-2" target="_iDx4P4Rur1Mqj5kfoU6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-2" target="_iDx4P4Rur1Mqj5kfoU6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Orders&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.05;exitY=0.567;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-3" target="_iDx4P4Rur1Mqj5kfoU6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Products&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="_iDx4P4Rur1Mqj5kfoU6-5" target="_iDx4P4Rur1Mqj5kfoU6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Click Stream Logs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;places&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Payment info&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;contains&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="153" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Shipping Info&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;has&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="213" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Product Category&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;has&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="485" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;post processing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-22" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer ID&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Name&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Street&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer City&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer State&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Country&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Zipcode&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer EMail&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Fname&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer LName&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Password&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;Customer Segment&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-170" y="110" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-23" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Category ID&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Category&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-26" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Card ID&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Description&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Image&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Price&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Product Status&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-27" value="&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Payment Type&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order CIty&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order State&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Region&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Country&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Customer ID&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order ID&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Item Cardprod ID&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Date&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Item Discount&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Item Discount Rate&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Order Item&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_iDx4P4Rur1Mqj5kfoU6-30" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Real Shipping Duration&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Scheduled Shipping Duration&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 14px; font-weight: 400;&quot;&gt;Benefit per order&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 14px; font-weight: 400;&quot;&gt;Sales per customer&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 14px; font-weight: 400;&quot;&gt;Delivery Status&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 14px; font-weight: 400;&quot;&gt;Late Delivery Risk&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="850" y="-22" width="220" height="215" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
